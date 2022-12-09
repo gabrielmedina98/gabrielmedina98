@@ -35,4 +35,12 @@
 
  
 </div>
+   
+  ## PRINCIPAIS PROJETOS 💻 
+  
+  <div align="center">
+  
+....
+    
+</div>
 
