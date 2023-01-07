@@ -17,31 +17,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-React-7ad8f1?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   
-</div>
+  </div>
   
+Onde você pode me encontrar:  
   
- #### Onde você pode me encontrar:
-<div> 
-  <a href="https://instagram.com/gabriel_mediina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href ="mailto:gabriel_r1998@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  
-  <a href="https://www.linkedin.com/in/gabriel-medina-83a504120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div>            
+<a href="https://instagram.com/gabriel_mediina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href ="mailto:gabriel_r1998@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  
+<a href="https://www.linkedin.com/in/gabriel-medina-83a504120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
    
-  ## PRINCIPAIS PROJETOS 💻 
-  
-  <div align="center">
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmedina98&repo=github-readme-stats&theme=react" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmedina98&repo=anuraghazra.github.io&theme=react" />
-</a>
-<br />
-
-
-    
-</div>
 
