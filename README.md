@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0a0a0&height=120&section=header"/>
+
+
 ##  Olá, eu sou Gabriel Medina 🎈.
 
 ### Estudante em Sistemas de Informação, pela Universidade UNA.📖
@@ -28,6 +31,14 @@
 <a href ="mailto:gabriel_r1998@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  
 <a href="https://www.linkedin.com/in/gabriel-medina-83a504120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+    
+    <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielmedina98}/count.svg" /></p> 
+<br>
 </div>
+</div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0a0a0&height=120&section=footer"/>
    
 
